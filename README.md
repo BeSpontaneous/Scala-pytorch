@@ -76,7 +76,7 @@ We also provide Scala building on top of DeiT-B which are trained on ImageNet-1K
     <img src="fig/transfer.png" width="750px" height="250px">
   </div>
 
-  - **Whether the generalization ability can be maintained in the slimmable representation?** When leveraging the vision foundation model DINOv2 as the teacher network, we follow prior work [Proteus](https://github.com/BeSpontaneous/Proteus-pytorch) and remove all the Cross-Entropy losses during training to alleviate the dataset bias issue and inherit the strong generalization ability of the teacher network. The results are shown in the table and the delivered Scala-B with great generalization ability can be downloaded from the [link](https://drive.google.com/file/d/1KOQQFEhEW3ILASxEp1iW27OM_s1qSPQk/view?usp=drive_link).
+  - **Whether the generalization ability can be maintained in the slimmable representation?** When leveraging the vision foundation model DINOv2 as the teacher network, we follow prior work [Proteus](https://github.com/BeSpontaneous/Proteus-pytorch) and remove all the Cross-Entropy losses during training to alleviate the dataset bias issue and inherit the strong generalization ability of the teacher network. The results are shown in the table and the delivered Scala-B with great generalization ability can be downloaded from the [link](https://drive.google.com/file/d/1KPJK_rucC8ovQPe2TDDeKt0HBflQ0mrq/view?usp=drive_link).
 
 
 <div align="center">
